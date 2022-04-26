@@ -10,4 +10,4 @@ To replicate results:
 
 Please feel to reach out to "dwivea2" at "rpi.edu" if you have any questions or want to collaborate further on this project.
 
-The code for the baselines are built upon the original contributor that can be found on: https://github.com/ftramer/Steal-ML
+The code for the baselines are built upon the code by the original contributor and author that can be found on: https://github.com/ftramer/Steal-ML
